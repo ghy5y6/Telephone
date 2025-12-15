@@ -1,2 +1,5 @@
 # Telephone
-Just a telephone entity i made for gmod
+
+Telephone entity for gmod
+
+Find the workshop version here: https://steamcommunity.com/sharedfiles/filedetails/?id=3624563720
